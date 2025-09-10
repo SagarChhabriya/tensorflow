@@ -1,5 +1,7 @@
 # tensorflow
 
+https://github.com/mrdbourke/tensorflow-deep-learning/tree/main
+
 
 ## ML and DL
 
